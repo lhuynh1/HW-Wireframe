@@ -32,50 +32,50 @@ header {
 .section {
     background: #ebebeb;
     width: 495px;
-    float: left;
     margin-bottom: 10px;
-    height: 230px;
+    height: 250px;
     padding: 20px;
+    float: left;
 }
 
 #article {
- 
     background: #777;
     width: 450px;
-    height: 140px;
+    height: 160px;
     position: relative;
     top: 30;
-    padding: 20px;
-     
+    padding: 20px;  
 }
 
 #h123 {
     background: #ebebeb;
     width: 400px;
-    height: 30px;
+    height: 40px;
     margin-bottom: 25px;
     position: relative;
     top: 15;
+    padding: 10px;
   
 }
 
 #p {
     background: #ebebeb;
     width: 400px;
-    height: 30px;
+    height: 40px;
     position: relative;
     bottom 5;
+    padding: 10px;
     
 }
 
 #aside {
    
     background: #ebebeb;
-    width: 495px; 
+    width: 410px; 
     margin-bottom: 10px;
-    height: 230px;
+    height: 250px;
     padding: 20px;
-   
+    float: right;
 }
 
 footer {
